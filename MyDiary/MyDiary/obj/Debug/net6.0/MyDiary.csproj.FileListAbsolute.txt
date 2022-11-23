@@ -1,0 +1,15 @@
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\bin\Debug\net6.0\MyDiary.exe
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\bin\Debug\net6.0\MyDiary.deps.json
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\bin\Debug\net6.0\MyDiary.runtimeconfig.json
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\bin\Debug\net6.0\MyDiary.dll
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\bin\Debug\net6.0\MyDiary.pdb
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\MyDiary.csproj.AssemblyReference.cache
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\MyDiary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\MyDiary.AssemblyInfoInputs.cache
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\MyDiary.AssemblyInfo.cs
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\MyDiary.csproj.CoreCompileInputs.cache
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\MyDiary.dll
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\refint\MyDiary.dll
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\MyDiary.pdb
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\MyDiary.genruntimeconfig.cache
+C:\Users\girll\Desktop\MyDiary\MyDiary\MyDiary\obj\Debug\net6.0\ref\MyDiary.dll
